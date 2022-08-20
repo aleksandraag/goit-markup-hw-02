@@ -1,0 +1,148 @@
+body {
+  background-color: #f5f5f5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #212121;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+}
+
+.menu a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+.menu a:hover {
+  color: #2196f3;
+}
+.menu a:focus {
+  color: #2196f3;
+}
+
+.contact a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #757575;
+}
+.contact a:hover {
+  color: #2196f3;
+}
+.contact a:focus {
+  color: #2196f3;
+}
+
+.click {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.click:hover {
+  background-color: #2196f3;
+  color: white;
+}
+.click:focus {
+  background-color: #2196f3;
+
+  color: white;
+}
+
+.click button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+}
+
+.click button:hover {
+  background-color: #2196f3;
+  color: white;
+}
+.click button:focus {
+  background-color: #2196f3;
+  color: white;
+}
+
+.headline {
+  color: #212121;
+}
+
+.first {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
+
+.second {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.fifth {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+
+  letter-spacing: 0.03em;
+}
+
+.content {
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.job {
+  font-size: 16px;
+  line-height: 19px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.area {
+  font-size: 16px;
+  line-height: 30px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.address {
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
