@@ -185,6 +185,17 @@ body {
   color: var(--button-text-color);
 }
 
+.lorem-headline {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1em;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: var(--main-text-color);
+}
+
 .secondary-headline {
   font-weight: 700;
   font-size: 36px;
@@ -196,12 +207,26 @@ body {
 .list {
   list-style: none;
 }
-.small-headline {
+
+.team-headline {
+  font-style: normal;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.1875em;
 
   letter-spacing: 0.03em;
+  color: var(--main-text-color);
+}
+
+.area-headline {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2.25em;
+
+  letter-spacing: 0.06em;
+
+  color: var(--main-text-color);
 }
 
 .content {
@@ -213,7 +238,7 @@ body {
   color: var(--contactncontent-text-color);
 }
 
-.job {
+.team {
   font-size: 16px;
   line-height: 1.1875em;
 
